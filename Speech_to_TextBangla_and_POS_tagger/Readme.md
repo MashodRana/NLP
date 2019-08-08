@@ -5,9 +5,8 @@ For Speech to text need to install
 <a href="https://pypi.org/project/SpeechRecognition/">click here to get details</a>
 
 <h5>PyAudio</h5>
-[click here to get details](https://pypi.org/project/PyAudio/)
-
+<a href="https://pypi.org/project/PyAudio/" target="_blank">click here to get details</a>
 <h4>POS Tagger is used from</h4>
-[Here](https://github.com/sagarABTwain/Bangla-Language-Tool-Kit)
+<a href="https://github.com/sagarABTwain/Bangla-Language-Tool-Kit" target="_blank">Here</a>
 
 To test the total programm run the `Main.py` file from the Terminal with python and get output as what you say with Parts of Speech for every word.
