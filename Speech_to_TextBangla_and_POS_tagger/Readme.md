@@ -1,12 +1,9 @@
-## This is only for 
-# Bengali Language.
+This is only for ## Bengali Language.
 
 For Speech to text need to install
-### SpeechRecognition
- [ click here to get details](https://pypi.org/project/SpeechRecognition/)
+<h3>SpeechRecognition</h3> [ click here to get details](https://pypi.org/project/SpeechRecognition/)
 
-### PyAudio 
- [click here to get details](https://pypi.org/project/PyAudio/)
+<h3>PyAudio</h3> [click here to get details](https://pypi.org/project/PyAudio/)
 
 ### POS Tagger is used from
  [Here](https://github.com/sagarABTwain/Bangla-Language-Tool-Kit)
