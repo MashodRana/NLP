@@ -2,7 +2,7 @@ This is only for `Bengali Language`
 
 For Speech to text need to install
 <h5>SpeechRecognition</h5>
-[click here to get details]: https://pypi.org/project/SpeechRecognition/
+<a href="https://pypi.org/project/SpeechRecognition/">click here to get details</a>
 
 <h5>PyAudio</h5>
 [click here to get details](https://pypi.org/project/PyAudio/)
