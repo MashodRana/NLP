@@ -1,12 +1,10 @@
-This is only for <h2>Bengali Language.</h2>
+This is only for ## Bengali Language
 
 For Speech to text need to install
-<h3>SpeechRecognition</h3> [ click here to get details] (https://pypi.org/project/SpeechRecognition/)
+<h5>SpeechRecognition</h5> [ click here to get details](https://pypi.org/project/SpeechRecognition/)
 
-<h3>PyAudio</h3> [click here to get details] (https://pypi.org/project/PyAudio/)
+<h5>PyAudio</h5> [click here to get details](https://pypi.org/project/PyAudio/)
 
-<h3>POS Tagger is used from</h3> [Here] (https://github.com/sagarABTwain/Bangla-Language-Tool-Kit)
+<h4>POS Tagger is used from</h4> [Here](https://github.com/sagarABTwain/Bangla-Language-Tool-Kit)
 
-To test the total programm run the 
-#### Main.py
- file from the Terminal with python and get output as what you say with Parts of Speech for every word.
+To test the total programm run the 'Main.py' file from the Terminal with python and get output as what you say with Parts of Speech for every word.
