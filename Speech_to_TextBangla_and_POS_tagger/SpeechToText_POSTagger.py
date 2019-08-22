@@ -1,7 +1,7 @@
 from posTagger import pos
 import speech_recognition as SR
 class SpeechText_with_POS:
-    def getText( self, lang'en-US' ):
+    def getText( self, lang='en-US' ):
 
         recognize = SR.Recognizer()
         with SR.Microphone() as source:# can be raised error like No input device from Microphone.May be solved by providing Device index 
