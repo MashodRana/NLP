@@ -1,7 +1,7 @@
 from posTagger import pos
 import speech_recognition as SR
 class SpeechText_with_POS:
-    def getText( self, language='en-US' ):
+    def getText( self, lang'en-US' ):
 
         recognize = SR.Recognizer()
         with SR.Microphone() as source:# can be raised error like No input device from Microphone.May be solved by providing Device index 
@@ -12,7 +12,7 @@ class SpeechText_with_POS:
         text=None
 
         try:
-            text = recognize.recognize_google( speech, language='bn-BD' )#recognize speech using Google Speech Recognition
+            text = recognize.recognize_google( speech, language=lang )#recognize speech using Google Speech Recognition
             print(text)
         except ValueError|LookupError as error:
             print("Couldn't uderstand the audio")
